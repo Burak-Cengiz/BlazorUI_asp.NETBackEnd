@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{696EA4AC-34D3-49A4-B4B9-BF048122B718}|WebAPI\\WebAPI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696EA4AC-34D3-49A4-B4B9-BF048122B718}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8189ACF5-052B-4A58-A893-CCC8D1E87FD3}|Core\\Core.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\core\\entites\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8189ACF5-052B-4A58-A893-CCC8D1E87FD3}|Core\\Core.csproj|solutionrelative:core\\entites\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8189ACF5-052B-4A58-A893-CCC8D1E87FD3}|Core\\Core.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\core\\entites\\concrete\\useroperationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8189ACF5-052B-4A58-A893-CCC8D1E87FD3}|Core\\Core.csproj|solutionrelative:core\\entites\\concrete\\useroperationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8189ACF5-052B-4A58-A893-CCC8D1E87FD3}|Core\\Core.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\core\\entites\\concrete\\operationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8189ACF5-052B-4A58-A893-CCC8D1E87FD3}|Core\\Core.csproj|solutionrelative:core\\entites\\concrete\\operationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8189ACF5-052B-4A58-A893-CCC8D1E87FD3}|Core\\Core.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\core\\dataaccess\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8189ACF5-052B-4A58-A893-CCC8D1E87FD3}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8189ACF5-052B-4A58-A893-CCC8D1E87FD3}|Core\\Core.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8189ACF5-052B-4A58-A893-CCC8D1E87FD3}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BB1F04-2270-4A9A-90AD-3123D9D32263}|Business\\Business.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\business\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BB1F04-2270-4A9A-90AD-3123D9D32263}|Business\\Business.csproj|solutionrelative:business\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC9206C-E4A0-4DB5-8A51-CAE03F36FD32}|DataAccess\\DataAccess.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC9206C-E4A0-4DB5-8A51-CAE03F36FD32}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC9206C-E4A0-4DB5-8A51-CAE03F36FD32}|DataAccess\\DataAccess.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC9206C-E4A0-4DB5-8A51-CAE03F36FD32}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BB1F04-2270-4A9A-90AD-3123D9D32263}|Business\\Business.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BB1F04-2270-4A9A-90AD-3123D9D32263}|Business\\Business.csproj|solutionrelative:business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BB1F04-2270-4A9A-90AD-3123D9D32263}|Business\\Business.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BB1F04-2270-4A9A-90AD-3123D9D32263}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC9206C-E4A0-4DB5-8A51-CAE03F36FD32}|DataAccess\\DataAccess.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\dataaccess\\concrete\\entityframework\\context\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC9206C-E4A0-4DB5-8A51-CAE03F36FD32}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\context\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8189ACF5-052B-4A58-A893-CCC8D1E87FD3}|Core\\Core.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\core\\entites\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8189ACF5-052B-4A58-A893-CCC8D1E87FD3}|Core\\Core.csproj|solutionrelative:core\\entites\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB0D64C-4A22-485E-B376-E60BBF6A9980}|Entities\\Entities.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\entities\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB0D64C-4A22-485E-B376-E60BBF6A9980}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8189ACF5-052B-4A58-A893-CCC8D1E87FD3}|Core\\Core.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\core\\utilities\\result\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8189ACF5-052B-4A58-A893-CCC8D1E87FD3}|Core\\Core.csproj|solutionrelative:core\\utilities\\result\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC9206C-E4A0-4DB5-8A51-CAE03F36FD32}|DataAccess\\DataAccess.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\dataaccess\\concrete\\entityframework\\efuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC9206C-E4A0-4DB5-8A51-CAE03F36FD32}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\efuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC9206C-E4A0-4DB5-8A51-CAE03F36FD32}|DataAccess\\DataAccess.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\dataaccess\\concrete\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC9206C-E4A0-4DB5-8A51-CAE03F36FD32}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696EA4AC-34D3-49A4-B4B9-BF048122B718}|WebAPI\\WebAPI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696EA4AC-34D3-49A4-B4B9-BF048122B718}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BB1F04-2270-4A9A-90AD-3123D9D32263}|Business\\Business.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BB1F04-2270-4A9A-90AD-3123D9D32263}|Business\\Business.csproj|solutionrelative:business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696EA4AC-34D3-49A4-B4B9-BF048122B718}|WebAPI\\WebAPI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696EA4AC-34D3-49A4-B4B9-BF048122B718}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB0D64C-4A22-485E-B376-E60BBF6A9980}|Entities\\Entities.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\entities\\dtos\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB0D64C-4A22-485E-B376-E60BBF6A9980}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696EA4AC-34D3-49A4-B4B9-BF048122B718}|WebAPI\\WebAPI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindbackend\\webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696EA4AC-34D3-49A4-B4B9-BF048122B718}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Core\\Entites\\IEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entites\\IEntity.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Core\\Entites\\IEntity.cs",
+              "RelativeToolTip": "Core\\Entites\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:35:56.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EfEntityRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeToolTip": "Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:23:08.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Core\\DataAccess\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "Core\\DataAccess\\IEntityRepository.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Core\\DataAccess\\IEntityRepository.cs",
+              "RelativeToolTip": "Core\\DataAccess\\IEntityRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:23:19.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EfProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:26:18.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\DataAccess\\Abstract\\IProductDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IProductDal.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\DataAccess\\Abstract\\IProductDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IProductDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:26:16.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IResult.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Result\\IResult.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Result\\IResult.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Result\\IResult.cs",
+              "RelativeToolTip": "Core\\Utilities\\Result\\IResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:23:04.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\Context\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\Context\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\Context\\NorthwindContext.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\Context\\NorthwindContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:17:34.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OperationClaim.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Core\\Entites\\Concrete\\OperationClaim.cs",
+              "RelativeDocumentMoniker": "Core\\Entites\\Concrete\\OperationClaim.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Core\\Entites\\Concrete\\OperationClaim.cs",
+              "RelativeToolTip": "Core\\Entites\\Concrete\\OperationClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:22:48.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserOperationClaim.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Core\\Entites\\Concrete\\UserOperationClaim.cs",
+              "RelativeDocumentMoniker": "Core\\Entites\\Concrete\\UserOperationClaim.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Core\\Entites\\Concrete\\UserOperationClaim.cs",
+              "RelativeToolTip": "Core\\Entites\\Concrete\\UserOperationClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:22:48.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Core\\Entites\\Concrete\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Entites\\Concrete\\User.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Core\\Entites\\Concrete\\User.cs",
+              "RelativeToolTip": "Core\\Entites\\Concrete\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:22:48.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:48:40.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Business\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Business\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ProductManager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:32:18.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Business\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Business\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IProductService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:40:25.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Business\\Concrete\\UserManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\UserManager.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Business\\Concrete\\UserManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\UserManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T10:53:25.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Entities\\Concrete\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Product.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Entities\\Concrete\\Product.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:16:50.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EfUserDal.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\EfUserDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfUserDal.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\EfUserDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfUserDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:22:38.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EfCategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:22:25.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AutofacBusinessModule.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeDocumentMoniker": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeToolTip": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T08:00:34.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserForLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Entities\\Dtos\\UserForLoginDto.cs",
+              "RelativeDocumentMoniker": "Entities\\Dtos\\UserForLoginDto.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\Entities\\Dtos\\UserForLoginDto.cs",
+              "RelativeToolTip": "Entities\\Dtos\\UserForLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:50:21.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABMAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:48:40.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T07:09:24.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\WebAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindBackend\\WebAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T13:56:16.892Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
